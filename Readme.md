@@ -4,7 +4,7 @@ Link dataset: https://benchmark.ini.rub.de/gtsrb_dataset.html
 
 Link model: https://colab.research.google.com/drive/1JLsZIyooEWGB3mBsLpe2ZmmOLYI_prdG?usp=sharing
 
-Tổng quan dấtet:
+Tổng quan dataset:
  
 Vấn đề phân loại một ảnh, nhiều lớp
 Hơn 40 lớp học
